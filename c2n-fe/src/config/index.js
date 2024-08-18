@@ -10,9 +10,9 @@ export const EARNED_TOKEN_ADDRESS =
 export const stakingPoolAddresses = [
     {
         chainId: 11155111,
-        stakingAddress: "0xB627f9DCd6164De3D914F265F405d30366D6Ac94",
-        depositTokenAddress: "0x1Dd5dcB05E451EfC6d6D4Fb2B905b02Dc3679aB4",
-        earnedTokenAddress: "0x1Dd5dcB05E451EfC6d6D4Fb2B905b02Dc3679aB4",
+        stakingAddress: "0x98a02881c132ad26750c20929b96719BDcFDf039",
+        depositTokenAddress: "0x98a02881c132ad26750c20929b96719BDcFDf039",
+        earnedTokenAddress: "0x98a02881c132ad26750c20929b96719BDcFDf039",
     },
 ];
 
@@ -63,5 +63,5 @@ export const tokenAbi = [
 export const tokenImage =
     "http://bobabrewery.oss-ap-southeast-1.aliyuncs.com/brewery_logo.jpg";
 
-export const AIRDROP_TOKEN = "0x5FFb239d5d073CE0Ae78f984b0103d95aF656054"
-export const AIRDROP_CONTRACT = "0x196006736B59acbC62f1DBbE37aE6Ed508e7AC4f"
+export const AIRDROP_TOKEN = "0x98a02881c132ad26750c20929b96719BDcFDf039"
+export const AIRDROP_CONTRACT = "0x4aCA10041B8Dd5E3EE597fFfd2f916d25fF67DE7"
