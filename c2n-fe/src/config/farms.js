@@ -40,9 +40,9 @@ export default [
   // },
   {
     chainId: 11155111,
-    depositTokenAddress: "0x98a02881c132ad26750c20929b96719BDcFDf039",
-    earnedTokenAddress: "0x98a02881c132ad26750c20929b96719BDcFDf039",
-    stakingAddress: "0xd75cEB94c8465C536Bd1c998193e6213178e5c19",
+    depositTokenAddress: "0x94cb038CC512AFaCd4b1c93787bDE133077e5d67",
+    earnedTokenAddress: "0x94cb038CC512AFaCd4b1c93787bDE133077e5d67",
+    stakingAddress: "0x919aC581FCF0709D9D90796e78E3eec459BD6264",
     poolId: 0,
     available: true,
     depositSymbol: "FC2N",
@@ -58,3 +58,4 @@ export default [
     aprUrl: "/boba/apr/bsc",
   },
 ];
+
